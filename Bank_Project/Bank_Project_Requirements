@@ -1,0 +1,14 @@
+Requirements  for database:-
+
+1.	Create a Database of any bank.
+2.	Create a table by the name customer_details with the columns 
+
+        ID	(Primary key), (Auto-generated)
+        Name	(Not null)
+        Age	(Not null) - should be greater than 18
+      
+        
+Table :   ID	  Name	  Age
+
+3.	Insert Values in customer_details.
+
